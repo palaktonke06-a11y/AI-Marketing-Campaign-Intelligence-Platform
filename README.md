@@ -142,7 +142,7 @@ Every campaign receives an AI-generated health score based on its overall perfor
 
 <p align="center">
 <img src="images/risk_detection.png" width="1000">
-</p>
+</p> 
 
 ---
 
