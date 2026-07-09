@@ -123,7 +123,7 @@ This removes the need for manual business analysis.
 # 📈 Campaign Health Score
 
 <p align="center">
-<img src="images/campaign_health_score.png" width="1000">
+<img src="images/campaign_health_socore.png" width="1000">
 </p>
 
 ---
@@ -141,7 +141,7 @@ Every campaign receives an AI-generated health score based on its overall perfor
 # ⚠️ Risk Detection
 
 <p align="center">
-<img src="images/risk_detection.png" width="1000">
+<img src="images/risk_ditection.png" width="1000">
 </p> 
 
 ---
