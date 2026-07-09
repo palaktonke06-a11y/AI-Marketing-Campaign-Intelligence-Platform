@@ -77,7 +77,7 @@ The dashboard provides a complete overview of campaign performance through inter
 
 ---
 
-# 🤖 Campaign Success Prediction
+## 🤖 Campaign Success Prediction
 
 <p align="center">
 <img src="images/prediction.png" width="1000">
@@ -98,7 +98,7 @@ Unlike simple prediction projects, this model is integrated directly into the bu
 
 ---
 
-# 🧠 AI Business Advisor
+## 🧠 AI Business Advisor
 
 <p align="center">
 <img src="images/ai_insights.png" width="1000">
@@ -120,7 +120,7 @@ This removes the need for manual business analysis.
 
 ---
 
-# 📈 Campaign Health Score
+## 📈 Campaign Health Score
 
 <p align="center">
 <img src="images/campaign_health_score.png" width="1000">
@@ -138,7 +138,7 @@ Every campaign receives an AI-generated health score based on its overall perfor
 
 ---
 
-# ⚠️ Risk Detection
+## ⚠️ Risk Detection
 
 <p align="center">
 <img src="images/risk_detection.png" width="1000">
@@ -157,7 +157,7 @@ The platform identifies campaigns that may become unprofitable before significan
 
 ---
 
-# 💰 Budget Optimization
+## 💰 Budget Optimization
 
 <p align="center">
 <img src="images/optimizer.png" width="1000">
@@ -175,7 +175,7 @@ Instead of simply reporting spend, the platform suggests smarter budget allocati
 
 ---
 
-# 📉 Performance Forecasting
+## 📉 Performance Forecasting
 
 <p align="center">
 <img src="images/performance_forecasting.png" width="1000">
@@ -193,7 +193,7 @@ Forecast future campaign performance using historical trends.
 
 ---
 
-# 🏆 Competitor Benchmark
+## 🏆 Competitor Benchmark
 
 <p align="center">
 <img src="images/benchmark.png" width="1000">
@@ -211,7 +211,7 @@ Compare campaign performance against industry benchmarks.
 
 ---
 
-# 📄 Executive Reports
+## 📄 Executive Reports
 
 <p align="center">
 <img src="images/reports.png" width="1000">
