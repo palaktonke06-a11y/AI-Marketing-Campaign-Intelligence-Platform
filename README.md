@@ -6,6 +6,12 @@ The AI Marketing Campaign Intelligence Platform is an end-to-end business intell
 
 ---
 
+## 🌐 Live Demo
+
+🔗 https://ai-marketing-campaign-intelligence-platform-vtcdprfh7evhjy2kql.streamlit.app/
+
+---
+
 # 🎯 Why This Project?
 
 Most marketing dashboards only answer **"What happened?"**
