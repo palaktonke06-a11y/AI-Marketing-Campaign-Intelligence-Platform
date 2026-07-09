@@ -1,0 +1,9 @@
+Channel_ID,Channel_Name,Platform,Campaign_Type,Avg_CPC,Avg_CTR
+1,Google Search Ads,Google,Search,25,6.5
+2,Google Display Ads,Google,Display,12,3.4
+3,Facebook Ads,Meta,Social Media,18,5.2
+4,Instagram Ads,Meta,Social Media,20,5.9
+5,YouTube Ads,Google,Video,15,4.1
+6,LinkedIn Ads,LinkedIn,Professional,40,2.8
+7,Email Marketing,Email,Email,3,8.5
+8,Affiliate Marketing,Affiliate,Referral,8,4.7

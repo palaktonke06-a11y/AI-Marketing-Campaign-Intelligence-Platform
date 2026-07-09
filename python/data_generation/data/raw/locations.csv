@@ -1,0 +1,21 @@
+Location_ID,City,State,Region,Country
+1,Bhopal,Madhya Pradesh,Central,India
+2,Indore,Madhya Pradesh,Central,India
+3,Jabalpur,Madhya Pradesh,Central,India
+4,Mumbai,Maharashtra,West,India
+5,Pune,Maharashtra,West,India
+6,Nagpur,Maharashtra,West,India
+7,Delhi,Delhi,North,India
+8,Noida,Uttar Pradesh,North,India
+9,Lucknow,Uttar Pradesh,North,India
+10,Jaipur,Rajasthan,North,India
+11,Ahmedabad,Gujarat,West,India
+12,Surat,Gujarat,West,India
+13,Bengaluru,Karnataka,South,India
+14,Mysuru,Karnataka,South,India
+15,Hyderabad,Telangana,South,India
+16,Chennai,Tamil Nadu,South,India
+17,Coimbatore,Tamil Nadu,South,India
+18,Kochi,Kerala,South,India
+19,Kolkata,West Bengal,East,India
+20,Bhubaneswar,Odisha,East,India
